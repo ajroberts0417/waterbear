@@ -1,0 +1,10 @@
+waterbear.tmproj
+nbproject/
+.*.swp
+waterbear.bbprojectd
+.DS_Store
+node_modules
+out/
+coverage/
+*~
+carry/
